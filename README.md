@@ -1,2 +1,2 @@
 # BteamBuggs
-list your guggs here please :) 
+list your buggs here please :) 
